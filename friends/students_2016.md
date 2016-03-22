@@ -88,10 +88,11 @@
 1. [李文凯  2013301020147](https://github.com/lwkgithub/computationalphysics_N2013301020147)
 1. [曹  一  2013301020120](https://github.com/breakingDboy/computational_physics_2013301020120)
 1. [邓  罡  2013301020104](https://github.com/dygical)
-1. [汪凌涛  2013301020102](https://github.com/WLT421) 
+1. [汪凌涛  2013301020102](https://github.com/WLT421)
 1. [岑啸威  2013301020162](https://github.com/xiaoweicen/computationalphysics_N2013301020162)
 
-##  2013级选修学生
+##  2012级选修学生
 1. [林春 2012301020134](https://github.com/ZQTXLC/computationalphysics_N2012301020134)
 2. [谌成渝 2012301020077](https://github.com/shenhaichenyu/computaionalphysics_2012301020077)
 3. [欧阳创新 2012301020084](https://github.com/Ouyangchuangxin/computationalphysics_2012301020084)
+4. [毛冠东 2012301020109](https://github.com/maoguandong/computationalphysics_N2012301020109/blob/master/README.md)
