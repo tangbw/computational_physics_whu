@@ -4,6 +4,8 @@
 import pylab as pl
 import pickle
 import visual as vs
+import easygui
+
 
 class Uranium:
     """
@@ -14,14 +16,14 @@ class Uranium:
         self.dt = dt
         self.N = n
         self.time = time
-        self.n_uranium = []
-        self.T = []
 
     def __str__(self):
         msg = "There are %d U235 nuclei at the beginning, and the decay time constant is set to be %f"%(self.N, self.tau)
         return msg
 
     def calculate(self):
+        self.n_uranium = []
+        self.T = []
         self.n_uranium.append(self.N)
         self.T.append(0)
         nsteps = int(self.time / self.dt)
@@ -51,11 +53,15 @@ class Uranium:
         while 1:
             pass
 
+    def set_parameters(self):
+        self.N = float(easygui.enterbox("How many nuclei at the beginning?"))
 
 
 A = Uranium(1000, 1.0, 0.1, 3)
 print A.__doc__
 print A
+
+A.set_parameters()
 
 A.calculate()
 A.plot3D()
