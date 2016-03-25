@@ -41,7 +41,6 @@ class Uranium:
         savefig("radioactive_decay.jpg")
 
     def plot3D(self):
-        axis = []
         axis_length = 10.0
         xaxis = vs.arrow(pos = (-5, -5, 0), axis = (axis_length, 0, 0), shaftwidth = 0.01)
         yaxis = vs.arrow(pos = (-5, -5, 0), axis = (0, axis_length, 0), shaftwidth = 0.01)
@@ -64,5 +63,5 @@ print A
 A.set_parameters()
 
 A.calculate()
-A.plot3D()
+A.plot2D()
 
