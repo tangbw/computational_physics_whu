@@ -52,3 +52,4 @@
 ### GitHub不支持LaTex公式的一种解决办法
 - 公式中不含有空格时，可通过`![](http://latex.codecogs.com/gif.latex?\alpha_A+\beta)`来发布公式，将连接中的`\alpha_A+\beta`替换为想输入的公式即可。
 - 公式中含有空格时，可以在[codecogs](http://latex.codecogs.com/)先编辑好公式，然后右击公式，选择图象属性，复制其中“源文件”一栏中的url，在markdown文档中以图片格式发布。
+- [配合codecogs在vim里面插入公式的插件](https://github.com/Ron89/md_insert_equation.vim)
