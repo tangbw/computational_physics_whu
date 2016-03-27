@@ -91,6 +91,17 @@
 1. [汪凌涛  2013301020102](https://github.com/WLT421)
 1. [岑啸威  2013301020162](https://github.com/xiaoweicen/computationalphysics_N2013301020162)
 
+## 2013级彭桓武班
+1. [张强 2013301020039](https://github.com/zqbinggong/computational-physics_N2013301020039)
+1. [阮文洪 2013301020026](https://github.com/rwh457/computationalphysics_N2013301020026)
+1. [王智麟 2013301020067]( https://github.com/CrossV/computationalphysics_N2013301020067)
+1. [黄亮 2013301510076](https://github.com/horizonl/computationalphysics_N2013301510076)
+1. [姚文哲 2013301020001](https://github.com/ywzhelium/computationalphysics_N2013301020001)
+1. [许晗 2013301020084](https://github.com/MilCOS/computationalphysics_N2013301020084)
+1. [刘文焘 2013301020085](https://github.com/whuCanon/computationalphysics_N2013301020085)
+1. [王雨祺 2013301020086](https://github.com/qinxiaochord/computationalphysics_N2013301020086)
+1. [徐行 2013301510044](https://github.com/xuhang0/computationalphysics_2013301510044)
+
 ##  2012级选修学生
 1. [林春 2012301020134](https://github.com/ZQTXLC/computationalphysics_N2012301020134)
 2. [谌成渝 2012301020077](https://github.com/shenhaichenyu/computaionalphysics_2012301020077)
