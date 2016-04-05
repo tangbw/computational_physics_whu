@@ -49,7 +49,7 @@ class cannon:
 class drag_cannon(cannon):
     def next_state(self, current_state):
         global g, b2m
-        v = sqrt(current_state.x * current_state.x + current_state.y * current_state.y)
+        v = sqrt(current_state.vx * current_state.vx + current_state.vy * current_state.vy)
         next_x = current_state.x + current_state.vx * self.dt
         next_vx = current_state.vx - b2m * v * current_state.vx * self.dt
         next_y = current_state.y + current_state.vy * self.dt
