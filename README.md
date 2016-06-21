@@ -2,11 +2,11 @@
 ## 作业
 第1次作业 见下  
 第2次作业 见下  
-[第3次作业](https://github.com/ChenYangyao/computationalphysics_N2013301020169/blob/master/computational.phy_homework3.md)  
-[第4次作业、第5次作业(chapter1)](https://github.com/ChenYangyao/computationalphysics_N2013301020169/blob/master/chapter1_201603/README(ch1_homework).md)  
-[第6次作业(chapter2,抛体运动)](https://www.zybuluo.com/cyy652415049/note/333582)  
-[第7次作业(chapter2,棒球运动)](https://www.zybuluo.com/cyy652415049/note/338769)  
-[第8次作业(chapter3,简谐摆和非简谐摆)](https://www.zybuluo.com/cyy652415049/note/347388)  
+[第3次作业](https://github.com/tangbw/computational_physics_whu/blob/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)  
+[第4次作业、第5次作业(chapter1)](https://github.com/tangbw/computational_physics_whu/blob/master/README(ch1_homework).md)  
+[第6次作业(chapter2,抛体运动)](https://github.com/tangbw/computational_physics_whu/blob/master/%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)  
+[第7次作业(chapter2,棒球运动)](https://github.com/tangbw/computational_physics_whu/blob/master/%E7%AC%AC%E4%B8%83%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)  
+[第8次作业(chapter3,简谐摆和非简谐摆)](https://github.com/tangbw/computational_physics_whu/blob/master/%E7%AC%AC%E5%85%AB%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)  
 [第9次作业(chapter3,混沌摆)](https://www.zybuluo.com/cyy652415049/note/355836)  
 [第10次作业(chapter3,Lorenz模型和台球运动)](https://www.zybuluo.com/cyy652415049/note/358905)    
 [第11次作业(chapter4,行星运动)](https://www.zybuluo.com/cyy652415049/note/363775)  
