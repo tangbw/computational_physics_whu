@@ -8,7 +8,7 @@
 [第7次作业](https://github.com/tangbw/computational_physics_whu/blob/master/%E7%AC%AC%E4%B8%83%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)  
 [第8次作业](https://github.com/tangbw/computational_physics_whu/blob/master/%E7%AC%AC%E5%85%AB%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)  
 [第9次作业(chapter3,混沌摆)](https://www.zybuluo.com/mdeditor#414618)  
-[第10次作业(chapter3,Lorenz模型和台球运动)](https://www.zybuluo.com/cyy652415049/note/358905)    
+[第10次作业(chapter3,Lorenz模型和台球运动)](https://www.zybuluo.com/mdeditor#414653)    
 [第11次作业(chapter4,行星运动)](https://www.zybuluo.com/cyy652415049/note/363775)  
 [第12次作业(chapter4,太阳系中的共振)](https://www.zybuluo.com/cyy652415049/note/378419)  
 [第13次作业(chapter5,电场)](https://www.zybuluo.com/cyy652415049/note/387438)   
